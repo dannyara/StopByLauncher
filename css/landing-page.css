@@ -20,7 +20,10 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-
+.scimg{
+	width: 70%
+}
+	
 .topnav {
     font-size: 20px;
 }
@@ -38,12 +41,12 @@ h6 {
     color: #f8f8f8;
     /*background: url(../img/intro-bg.jpg) no-repeat center center; */
     background-size: cover;
-    background-color: rgb(20,60,50);
+    background-color: rgb(100,100,150);
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
+    padding-top: 0%;
     padding-bottom: 20%;
 }
 
@@ -100,6 +103,7 @@ h6 {
     padding: 50px 0;
     align-items: center;
     background-color: #f8f8f8;
+	
 }
 
 .content-section-b {

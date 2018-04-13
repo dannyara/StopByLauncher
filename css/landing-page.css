@@ -23,7 +23,7 @@ h6 {
 .scimg{
 	width: 70%
 }
-	
+
 .topnav {
     font-size: 20px;
 }
@@ -35,7 +35,8 @@ h6 {
 
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 50px;
+    padding-bottom: 0px;
+    margin-bottom: -100px;
     text-align: center;
     text-shadow: black;
     color: #f8f8f8;
@@ -103,7 +104,7 @@ h6 {
     padding: 50px 0;
     align-items: center;
     background-color: #f8f8f8;
-	
+
 }
 
 .content-section-b {

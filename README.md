@@ -1,4 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+
 # [Go To launcher](https://dannyara.github.io/StopByLauncher/)
 
 
